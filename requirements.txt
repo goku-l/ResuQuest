@@ -1,0 +1,14 @@
+fitz
+re
+docx2txt
+os
+PyMuPDF
+streamlit
+joblib
+PyMuPDF
+docx2txt
+nltk
+scikit-learn
+pandas
+github3.py
+requests
