@@ -1,6 +1,5 @@
 fitz
 docx2txt
-PyMuPDF
 streamlit
 joblib
 PyMuPDF
