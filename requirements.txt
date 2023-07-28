@@ -1,5 +1,4 @@
 fitz
-re
 docx2txt
 os
 PyMuPDF
