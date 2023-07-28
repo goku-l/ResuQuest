@@ -2,10 +2,9 @@ fitz
 docx2txt
 streamlit
 joblib
-PyMuPDF
-docx2txt
 nltk
 scikit-learn
 pandas
-github3.py
+github3
 requests
+webbrowser
