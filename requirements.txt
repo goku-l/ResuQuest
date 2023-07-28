@@ -5,6 +5,6 @@ joblib
 nltk
 scikit-learn
 pandas
-github3
+github
 requests
 webbrowser
